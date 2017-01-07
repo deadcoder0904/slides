@@ -14,7 +14,7 @@
 
 (3) Red Theme -
 
-![red](http://imgur.com/Icf2ibH.png)
+![red](http://imgur.com/RW8tfqL.png)
 
 (4) Codgray Theme -
 
