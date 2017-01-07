@@ -4,27 +4,27 @@
 
 ## Current Themes -
 
-(1). Default Theme -
+(1) Default Theme -
 
 ![default](http://imgur.com/voVoJ2Z.png)
 
-(2). Dark Theme -
+(2) Dark Theme -
 
 ![dark](http://imgur.com/FdTX5Dd.png)
 
-(3). Red Theme -
+(3) Red Theme -
 
 ![red](http://imgur.com/Icf2ibH.png)
 
-(4). Codgray Theme -
+(4) Codgray Theme -
 
 ![codgray](http://imgur.com/ZgtczP2.png)
 
-(5). Badass Theme -
+(5) Badass Theme -
 
 ![](http://imgur.com/hE83bZ1.png)
 
-(6). Gray Theme -
+(6) Gray Theme -
 
 ![gray](http://imgur.com/3bLkxfd.png)
 
