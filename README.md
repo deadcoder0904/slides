@@ -1,4 +1,7 @@
-# html5, css3, js
+# slides
+
+> Create Slideshow like a Pro :heart:
+
 
 ## License
 
