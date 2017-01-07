@@ -1,0 +1,15 @@
+:root {
+	--bg-color: #000000;
+	--default-font: 'Inconsolata', Helvetica;
+	--default-color: #112242;
+	--header-footer-font: 'Quattrocento', Courier, monospace;
+	--header-footer-color: #267008;
+	--h1-color: #ed2b1a;
+	--para-color: #112242;
+	--code-color: #008080;
+	--code-bg-color: rgba(19, 28, 33, 0.64);
+	--code-border-color: #111111;
+	--anchor-color: #0faaf3;
+	--list-item-color: #112242;
+	--fullscreen-color: #000001;
+}

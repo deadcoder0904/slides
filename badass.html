@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Slides</title>
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata|Quattrocento" rel="stylesheet">
+	<link rel='stylesheet' href='css/themes/badass.css'/>
+	<link rel='stylesheet' href='css/style.css'/>
+</head>
+
+<body>
+	<header id="slide_name">
+		Just Another Slide <span>(Default Theme)</span>
+	</header>
+	<div id='slides'>
+
+		<div class="slide">
+			<h1>Title Here</h1>
+			<p>Just another slideshow made as a Side Project. <br>
+				Source Code available on <a href="https://github.com/deadcoder0904/slides">Github</a> <br>
+				Use &#9668; / &#9658; to begin Slideshow
+			</p>
+		</div>
+
+		<div class="slide">
+			<h1>Write Code</h1>
+			<pre>
+code {
+	display: inline-block;
+	padding: 1px;
+	font-size: 2em;
+	font-family: monospace;
+	border: 1px solid white;
+}
+			</pre>
+			<p>Written in `pre` tag</p>
+		</div>
+
+		<div class="slide">
+			<h1>Nest Items</h1>
+			<ol>
+				<li>Just</li>
+				<li>Another</li>
+				<li>List</li>
+				<ul>
+					<li>Tuna</li>
+					<li>Bacon</li>
+					<li>Pizza</li>
+					<ul>
+						<li>Cheese</li>
+						<li>Mayonaise</li>
+					</ul>
+				</ul>
+			</ol>
+		</div>
+
+		<div class="slide">
+			<h1>Fullscreen</h1>
+			<p>Press `f` to toggle fullscreen</p>
+		</div>
+
+		<div class="slide">
+			<h1>URL Hash</h1>
+			<p>
+				Slide Number is maintained in the URL. <br>
+				So, it loads from the current slide if Page is Refreshed rather than starting from the beginning.
+			</p>
+		</div>
+
+		<div class="slide">
+			<h1>Usage</h1>
+			<p>
+				Markup is very simple.<br>
+				Load in the `CSS` & `JS` file. <br>
+				Add a `div` with an `id` of `slides`<br>  which is a container & its children are the actual slides <br> which are `div`
+				with a class of `slide` which has a  heading for the `Title` & a paragraph for the `Description`.
+			</p>
+		</div>
+
+		<div class="slide">
+			<h1>Markup</h1>
+			<pre>
+&lt;div id="slides"&gt;<br />	&lt;div class="slide"&gt;<br />		&lt;h1&gt;Heading 1&lt;/h1&gt;<br />		&lt;p&gt;Description  1&lt;/p&gt;<br />	&lt;/div&gt;<br />	&lt;div class="slide"&gt;<br />		&lt;h1&gt;Heading N..&lt;/h1&gt;<br />		&lt;p&gt;Description  N..&lt;/p&gt;<br />	&lt;/div&gt;<br />&lt;/div&gt;
+			</pre>
+		</div>
+
+		<div class="slide">
+			<h1>Themes</h1>
+			<p>
+				Variety of Themes to use. <br>
+				Some of the Themes are given below. <br>
+				You can even make your own theme <br> by changing just 10 lines of code.
+			</p>
+		</div>
+
+		<div class="slide">
+			<h1>Official Website</h1>
+			<p>
+				How to Customize  your own Theme or to Create a new Theme is given on the Official Website. <br>
+				Head over to the <a href="https://slides.js.org">Official Website.</a> <br>
+			</p>
+		</div>
+
+		<div class="slide">
+			<h1>Thanks !!</h1>
+			<p>
+				Create an awesome slideshow now !! <br>
+				Hopefully you won't require PowerPoint Now :> <br>
+				Thanks for watching :)
+			</p>
+		</div>
+
+	</div>
+
+	<footer>
+		A2K &copy; 2017 <br>
+		<a href="dark.html">Dark Theme</a>
+		<a href="red.html">Red Theme</a>
+		<a href="codgray.html">Codgray Theme</a>
+		<a href="badass.html">Badass Theme</a>
+		<a href="gray.html">Gray Theme</a>
+	</footer>
+	<script src='js/app.js'></script>
+</body>
+</html>
