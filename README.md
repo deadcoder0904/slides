@@ -22,7 +22,7 @@
 
 (5) Badass Theme -
 
-![](http://imgur.com/hE83bZ1.png)
+![badass](http://imgur.com/hE83bZ1.png)
 
 (6) Gray Theme -
 
