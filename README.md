@@ -16,19 +16,19 @@
 
 (3) Red Theme -
 
-![red](http://imgur.com/RW8tfqL.png)
+![red](http://imgur.com/PBWbNFE.png)
 
 (4) Codgray Theme -
 
-![codgray](http://imgur.com/ZgtczP2.png)
+![codgray](http://imgur.com/nu0rhy0.png)
 
 (5) Badass Theme -
 
-![badass](http://imgur.com/hE83bZ1.png)
+![badass](http://imgur.com/pteX4e7.png)
 
 (6) Gray Theme -
 
-![gray](http://imgur.com/3bLkxfd.png)
+![gray](http://imgur.com/Icp3kbA.png)
 
 ## License
 
